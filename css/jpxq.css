@@ -1,0 +1,193 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+.dib{
+	width: 100%;
+	height: auto;
+	margin: 0px auto;
+/* 	background: red; */
+	overflow: hidden;
+}
+.dib img{
+	width: 100%;
+	height: 0.4rem;
+	display: block;
+}
+.dib2{
+	width: 100%;
+	height: auto;
+/* 	background: green; */
+}
+.dib2 img{
+	width: 100%;
+	height: 0.95rem;
+	display: block;
+}
+.banner{
+	width: 100%;
+	height: auto;
+	background: red;
+}
+.banner img{
+	width: 100%;
+	height: 2.8rem;
+	display: block;
+}
+.sy{
+	width: 100%;
+	height: auto;
+	background: white;
+}
+.sy ul{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+}
+.sy ul>li{
+	font-size: 0.2rem;
+	float: left;
+	box-sizing: border-box;
+	padding-top: 0.2rem;
+	padding-bottom: 0.2rem;
+	padding-left: 0.2rem;
+}
+.sy ul>li>a{
+	font-size: 0.2rem;
+	color: black;
+}
+.gs{
+	width: 90%;
+	height: auto;
+	margin: auto;
+}
+.gs ul{
+	width: 100%;
+	height: auto;
+}
+.gs ul>li{
+	width: 100%;
+	height: auto;
+	font-size: 0.24rem;
+	border-bottom: 0.01rem dashed black;
+}
+.gs ul>li>span{
+	display: inline-block;
+	width: 0.04rem;
+	height: 0.2rem;
+	background: #01B5FF;
+}
+.xq{
+	width: 100%;
+	height: auto;
+}
+.xq ul{ 
+	width: 100%;
+	height: auto;
+
+}
+.xq ul>li{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+}
+.xq ul>li>img{
+	width: 2.34rem;
+	height: 2.34rem;
+	padding-left: 0.3rem;
+	padding-top: 0.2rem;
+	float: left;
+	box-sizing: border-box;
+}
+.xq ul>li>span{
+	font-size: 0.2rem;
+	float: left;
+	padding-top: 0.3rem;
+	padding-left: 0.2rem;
+	
+}
+.xq ul>li>i{
+	font-size: 0.2rem;
+	font-style: normal;
+	float: left;
+	padding-top: 0.3rem;
+	padding-left: 0.2rem;
+	color: #01B5FF;
+
+}
+.xq ul .jn{
+	width: 3.4rem;
+	height: 2.1rem;
+	float: left;
+}
+.xq ul .jn>h2{
+	font-size: 0.2rem;
+	font-weight: normal;
+	padding-left: 0.2rem;
+}
+.xq ul .jn>h3{
+	font-size: 0.2rem;
+	font-weight: normal;
+	padding-left: 0.2rem;
+}
+.xq ul .jn>h4{
+	font-size: 0.2rem;
+	font-weight: normal;
+	padding-left: 0.6rem;
+}
+.xq ul .jn>h5{
+	font-size: 0.2rem;
+	font-weight: normal;
+	padding-left: 0.2rem;
+}
+.jian{
+	width: 90%;
+	height: auto;
+	margin: auto;
+}
+.jian ul{
+	width: 100%;
+	height: auto;
+}
+.jian ul>li{
+	width: 100%;
+	height: auto;
+	font-size: 0.24rem;
+	border-bottom: 0.01rem dashed black;
+}
+.jian ul>li>span{
+	display: inline-block;
+	width: 0.04rem;
+	height: 0.2rem;
+	background: #01B5FF;
+}
+.xx{
+	width: 100%;
+	height: auto;
+}
+.xx ul{
+	width: 100%;
+	height: auto;
+}
+.xx ul>li{
+	width: 90%;
+	height: auto;
+	font-size: 0.2rem;
+	margin: auto;
+	padding-top: 0.2rem;
+
+}
+.db{
+	width: 100%;
+	height: auto;
+	margin-top: 0.3rem;
+}
+.db ul{
+	width: 100%;
+	height: auto;
+}
+.db ul>li{
+	font-size: 0.2rem;
+	text-align: center;
+}

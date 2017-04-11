@@ -1,0 +1,175 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	list-style: none;
+}
+.dib{
+	width: 100%;
+	height: auto;
+	margin: 0px auto;
+/* 	background: red; */
+	overflow: hidden;
+}
+.dib img{
+	width: 100%;
+	height: 0.4rem;
+	display: block;
+}
+.dib2{
+	width: 100%;
+	height: auto;
+/* 	background: green; */
+}
+.dib2 img{
+	width: 100%;
+	height: 0.95rem;
+	display: block;
+}
+.banner{
+	width: 100%;
+	height: auto;
+	background: red;
+}
+.banner img{
+	width: 100%;
+	height: 2.8rem;
+	display: block;
+}
+.mk{
+	width: 100%;
+	height: auto;
+}
+.mk ul{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+}
+.mk ul>li{
+	width: 25%;
+	height: auto;
+	float: left;
+}
+.mk ul>li>a{
+	color: black;
+	display: block;
+	text-align: center;
+}
+.mk ul>li>a>span{
+	font-size: 0.2rem;
+}
+.mk ul>li>a>img{
+	width: 100%;
+	height: 1.94rem;
+}
+.wf{
+	width: 100%;
+	height: auto;
+	text-align: center;
+	margin-top: 0.2rem;
+
+}
+.wf span{
+	font-size: 0.2rem;
+	color: #3087C1;
+}
+.wf1{
+	width: 100%;
+	height: auto;
+	margin-top: 0.3rem;
+}
+.wf1 ul{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+}
+.wf1 ul>li{
+	width: 50%;
+	height: auto;
+	float: left;
+	
+}
+.wf1 ul>li>a{
+	color: black;
+}
+.wf1 .right>img{
+	width: 100%;
+}
+.wf1 h2{
+	font-size: 0.2rem;
+	font-weight: normal;
+
+}
+.wf1 h3{
+	font-size: 0.15rem;
+	color: #BBBBBB;
+
+}
+.wf1 .left{
+	width: 45%;
+	height: auto;
+	float: left;
+	margin-left: 0.1rem;
+	
+}
+.wf1 .left>img{
+	width: 0.84rem;
+	height: 0.89rem;
+}
+.wf1 .right{
+	width: 50%;
+	height: auto;
+	float: right;
+}
+.wf1 ol{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+}
+.wf1 ol>li{
+	width: 31%;
+	height: auto;
+	float: left;
+	
+}
+.db{
+	width: 100%;
+	height: auto;
+}
+.db ul{
+	width: 100%;
+	height: auto;
+    overflow: hidden;
+}
+.db ul>li{
+	width: 33%;
+	font-size: 0.2rem;
+	float: left;
+	background: #E6E6E6;
+}
+.db .db1{
+	width: 100%;
+	height: auto;
+}
+.db .db1 span{
+	display: block;
+	float: left;
+	margin-top: 0.15rem;
+}
+.db .db1 img{
+	width: 0.54rem;
+	height: 0.57rem;
+	float: left;
+}
+.db ul>li:nth-child(2){
+	background: #FD8C11;
+	border-radius: 0.1rem;
+}
+.db .db2 img{
+	height: 0.57rem;
+	float: left;
+}
+.db .db2 span{
+	display: block;
+	float: left;
+	margin-top: 0.17rem;
+}

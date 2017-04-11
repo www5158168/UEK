@@ -1,0 +1,136 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+.dib{
+	width: 100%;
+	height: auto;
+	margin: 0px auto;
+/* 	background: red; */
+	overflow: hidden;
+}
+.dib img{
+	width: 100%;
+	height: 0.4rem;
+	display: block;
+}
+.dib2{
+	width: 100%;
+	height: auto;
+/* 	background: green; */
+}
+.dib2 img{
+	width: 100%;
+	height: 0.95rem;
+	display: block;
+}
+.banner{
+	width: 100%;
+	height: auto;
+	background: red;
+}
+.banner img{
+	width: 100%;
+	height: 2.8rem;
+	display: block;
+}
+.sy{
+	width: 100%;
+	height: auto;
+	background: white;
+}
+.sy ul{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+}
+.sy ul>li{
+	font-size: 0.2rem;
+	float: left;
+	box-sizing: border-box;
+	padding-top: 0.2rem;
+	padding-bottom: 0.2rem;
+	padding-left: 0.2rem;
+}
+.sy ul>li>a{
+	font-size: 0.2rem;
+	color: black;
+}
+.h5ym{
+	width: 100%;
+	height: auto;
+	margin-top: 0.2rem;
+}
+.h5ym span{
+	width: 100%;
+	font-size: 0.2rem;
+	margin-left: 0.8em;
+}
+.neirong{
+	width: 100%;
+	height: auto;
+}
+.neirong ul>li{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+}
+.neirong ul>li>img{
+	width: 2.37rem;
+	height: 1.79rem;
+	display: block;
+	float: left;
+}
+.neirong ul>li>span{
+	width: 5rem;
+	height: auto;
+	display: block;
+	float: left;
+	font-size: 0.2rem;
+	padding-top: 0.2rem;
+
+}
+.dianji{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+	border-top: 0.01rem solid #CECECE;
+	border-bottom: 0.01rem solid #CECECE;
+
+}
+.dianji ul>li{
+	width: 33%;
+	height: auto;
+	float: left;
+}
+.dianji ul>li>img{
+	height: 0.51rem;
+	float: left;
+}
+.dianji ul>li>span{
+	display: block;
+	float: left;
+	margin-top: 0.2rem;
+
+}
+.tz{
+	width: 100%;
+	height: auto;
+}
+.tz img{
+	width: 100%;
+	height: 0.63rem;
+}
+.db{
+	width: 100%;
+	height: auto;
+}
+.db ul{
+	width: 100%;
+	height: auto;
+}
+.db ul>li{
+	font-size: 0.2rem;
+	text-align: center;
+}

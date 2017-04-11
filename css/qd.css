@@ -1,0 +1,308 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+.dib{
+	width: 100%;
+	height: auto;
+	margin: 0px auto;
+/* 	background: red; */
+	overflow: hidden;
+}
+.dib img{
+	width: 100%;
+	height: 0.4rem;
+	display: block;
+}
+.dib2{
+	width: 100%;
+	height: auto;
+/* 	background: green; */
+}
+.dib2 img{
+	width: 100%;
+	height: 0.95rem;
+	display: block;
+}
+.banner{
+	width: 100%;
+	height: auto;
+	background: red;
+}
+.banner img{
+	width: 100%;
+	height: 2.8rem;
+	display: block;
+}
+.sy{
+	width: 100%;
+	height: auto;
+	background: white;
+}
+.sy ul{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+}
+.sy ul>li{
+	font-size: 0.2rem;
+	float: left;
+	box-sizing: border-box;
+	padding-top: 0.2rem;
+	padding-bottom: 0.2rem;
+	padding-left: 0.2rem;
+}
+.sy ul>li>a{
+	font-size: 0.2rem;
+	color: black;
+}
+.ruxue{
+	width: 100%;
+	height: auto;
+}
+.ruxue ul{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+}
+.ruxue ul>li{
+	width: 25%;
+	height: auto;
+	text-align: center;
+	float: left;
+}
+.ruxue ul>li>img{
+	width: 1.51rem;
+	height: 1.55rem;
+	display: block;
+	margin: auto;
+}
+.ruxue ul>li>span{
+	font-size: 0.2rem;
+}
+.gn{
+	width: 100%;
+	height: auto;
+}
+.gn ul{
+	width: 95%;
+	height: auto;
+}
+.gn .gn1{
+	width: 95%;
+	height: 0.65rem;
+	font-size: 0.25rem;
+	margin-top: 0.2rem;
+}
+.gn .gn1>span{
+	width: 0.04rem;
+	height: 0.2rem;
+	background: #01B5FF;
+	display: inline-block;
+	box-sizing: border-box;
+	margin: 0rem 0.2rem;
+}
+.gn ul>li{
+	font-size: 0.2rem;
+	margin-left: 0.2rem;
+	border-top: 0.02rem dashed #999999;
+
+}
+.gn ul>li>span{
+	color: #01B5FF;
+
+}
+.hy{
+	width: 100%;
+	height: auto;
+}
+.hy .hy1{
+	width: 95%;
+	height: 0.65rem;
+	font-size: 0.25rem;
+	margin-top: 0.2rem;
+}
+
+.hy .hy1>span{
+	width: 0.04rem;
+	height: 0.2rem;
+	background: #01B5FF;
+	display: inline-block;
+	box-sizing: border-box;
+	margin: 0rem 0.2rem;
+}
+.hy .hy2{
+	width: 100%;
+	height: auto;
+	text-align: center;
+}
+.hy .hy2>span{
+	margin: auto;
+	display: block;
+	font-size: 0.2rem;
+}
+.hy .hy2>img{
+	width: 6.53rem;
+	height: 4.13rem;
+	border-top: 0.02rem dashed #999999;
+}
+.gw{
+	width: 100%;
+	height: auto;
+
+}
+.gw .gw1{
+	width: 95%;
+	height: 0.65rem;
+	font-size: 0.25rem;
+	margin-top: 0.2rem;
+}
+
+.gw .gw1>span{
+	width: 0.04rem;
+	height: 0.2rem;
+	background: #01B5FF;
+	display: inline-block;
+	box-sizing: border-box;
+	margin: 0rem 0.2rem;
+}
+.gw ul{
+	width: 100%;
+	height: auto;
+}
+.gw ul>li{
+	width: 90%;
+	height: auto;
+	box-sizing: border-box;
+	overflow: hidden;
+	margin-top: 0.15rem;
+	margin: auto;
+}
+.gw ul>li:nth-child(1){
+	border-top: 0.01rem dashed black;
+
+}
+.gw ul>li .img{
+	width: 0.6rem;
+	height: 0.6rem;
+	display: inline-block;
+	float: left;
+}
+.gw ul>li> .img>img{
+	width: 0.6rem;
+	height: 0.6rem;
+}
+.gw ul>li .right>span{
+	font-size: 0.2rem;
+	padding-left: 0.2rem;
+	color: #01B5FF;
+}
+.gw ul>li .right>em{
+	font-style: normal;
+	font-size: 0.2rem;
+	padding-left: 0.2rem;
+}
+.gw ul>li .right{
+	width: 5rem;
+	float: left;
+	margin-top: 0.1rem;
+}
+.jyx{
+	width: 100%;
+	height: auto;
+}
+.jyx .jyx1{
+	width: 95%;
+	height: 0.65rem;
+	font-size: 0.25rem;
+	margin-top: 0.2rem;
+}
+
+.jyx .jyx1>span{
+	width: 0.04rem;
+	height: 0.2rem;
+	background: #01B5FF;
+	display: inline-block;
+	box-sizing: border-box;
+	margin: 0rem 0.2rem;
+}
+.jyx .jyx1>em{
+	font-style: normal;
+	display: inline-block;
+	width: 6rem;
+	border-bottom: 0.01rem dashed black;
+}
+.dban{
+	width: 100%;
+	height: auto;
+}
+.dban span{
+	font-size: 0.2rem;
+	margin-left: 0.7rem;
+	
+}
+.dban span:nth-child(2){
+	margin-left: 1.3rem;
+}
+.dban span:nth-child(3){
+	margin-left: 2rem;
+
+}
+.dban1{
+	width: 100%;
+	height: auto;
+	margin-top: 0.1rem;
+}
+.dban1 span{
+	font-size: 0.2rem;
+	margin-left: 0.6rem;
+}
+.dban1 span:nth-child(2){
+	color: orange;
+}
+.kc{
+	width: 100%;
+	height: auto;
+}
+.kc .kc1{
+	width: 95%;
+	height: 0.65rem;
+	font-size: 0.25rem;
+	margin-top: 0.2rem;
+}
+
+.kc .kc1>span{
+	width: 0.04rem;
+	height: 0.2rem;
+	background: #01B5FF;
+	display: inline-block;
+	box-sizing: border-box;
+	margin: 0rem 0.2rem;
+}
+.kc .kc1>em{
+	font-style: normal;
+	display: inline-block;
+	width: 6rem;
+	border-bottom: 0.01rem dashed black;
+}
+.kcap{
+	width: 100%;
+	height: auto;
+}
+.kcap img{
+	width: 6.7rem;
+	height: 4.1rem;
+}
+.db{
+	width: 100%;
+	height: auto;
+}
+.db ul{
+	width: 100%;
+	height: auto;
+}
+.db ul>li{
+	font-size: 0.2rem;
+	text-align: center;
+}

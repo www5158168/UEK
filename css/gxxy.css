@@ -1,0 +1,131 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	list-style: none;
+}
+.dib{
+	width: 100%;
+	height: auto;
+	margin: 0px auto;
+/* 	background: red; */
+	overflow: hidden;
+}
+.dib img{
+	width: 100%;
+	height: 0.4rem;
+	display: block;
+}
+.dib2{
+	width: 100%;
+	height: auto;
+/* 	background: green; */
+}
+.dib2 img{
+	width: 100%;
+	height: 0.95rem;
+	display: block;
+}
+.banner{
+	width: 100%;
+	height: auto;
+	background: red;
+}
+.banner img{
+	width: 100%;
+	height: 2.8rem;
+	display: block;
+}
+.gx{
+	width: 100%;
+	height: auto;
+	background: white;
+}
+.gx ul{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+}
+.gx ul>li{
+	font-size: 0.2rem;
+	float: left;
+	box-sizing: border-box;
+	padding-top: 0.2rem;
+	padding-bottom: 0.2rem;
+	padding-left: 0.2rem;
+}
+.gx ul>li>a{
+	font-size: 0.2rem;
+	color: black;
+}
+.dtx{
+	width: 100%;
+	height: auto;
+}
+.dtx ul{
+	width: 95%;
+	height: auto;
+	margin: 0px auto;
+	overflow: hidden;
+}
+.dtx ul>li{
+	width: 100%;
+	height: auto;
+	margin-bottom: 0.3rem;
+	float: left;
+	
+}
+.dtx .tu{
+	width: 1.9rem;
+	height: 1.45rem;
+	background: #C8C8C8;
+	box-sizing: border-box;
+	margin-left: 0.2rem;
+	float: left;
+}
+.dtx li .right{
+	width: 4.7rem;
+	float: left;
+	padding-top: 0.2rem;
+	padding-left: 0.2rem;
+	font-size: 0.2rem;
+}
+.dtx li .right>h2{
+	display: inline-block;
+	border-bottom: 0.01rem dashed black;
+}
+.dtx li .right>span{
+	font-size: 0.15rem;
+	margin-left: 0.1rem;
+}
+.dtx li .yx>span{
+	font-size: 0.2rem;
+	margin-left: 0.2rem;
+}
+.dtx li .yx{
+	font-size: 0.15rem;
+}
+.dtx li .yx2{
+	font-size: 0.2rem;
+	padding-left: 0.2rem;
+	float: left;
+}
+.tz{
+	width: 100%;
+	height: auto;
+}
+.tz img{
+	width: 100%;
+	height: 0.63rem;
+}
+.db{
+	width: 100%;
+	height: auto;
+}
+.db ul{
+	width: 100%;
+	height: auto;
+}
+.db ul>li{
+	font-size: 0.2rem;
+	text-align: center;
+}
